@@ -36,12 +36,16 @@
 	<string name="device_category_wfx_title">WileyFox</string>
 	<string name="device_category_nvidia_title">Nvidia</string>
 	<string name="device_category_oppo_title">OPPO</string>
+	<string name="device_category_one_title">Android ONE</string>
 	
 	<string name="maintainers_note_title">Note</string>
 	<string name="maintainers_note_title_summary">Send a PM to \'Varun Date\' at Hangouts containing the link to your ROM thread if you want your name to be added in Device Maintainers list.</string>
  
         <string name="device_ms013g">Grand 2 SM-G7102</string>
 	<string name="device_ms013g_summary">ms013g \nMaintainer - adityaupreti</string>
+
+	<string name="device_fortunaxx3g">Grand Prime SM-G530H</string>
+	<string name="device_fortunaxx3g_summary">fortunaxx3g \nMaintainer - kn06497</string>
 	
 	<string name="device_moto_x">Moto X 2013</string>
 	<string name="device_moto_x_summary">Ghost \nMaintainer - Sai Krishna</string>
@@ -57,6 +61,9 @@
 
 	<string name="device_peregrine">Moto G LTE</string>
 	<string name="device_peregrine_summary">Peregrine \nMaintainer -  Hassan Okarvi</string>
+	
+	<string name="device_merlin">Moto G Turbo Edition</string>
+	<string name="device_merlin_summary">Merlin \nMaintainer - Abhinai Sanka</string>
 
 	<string name="device_condor">Moto E</string>
 	<string name="device_condor_summary">Condor \nMaintainer - Zeeshan</string>
@@ -353,13 +360,19 @@
 	<string name="device_dior_summary">dior\nMaintainer - Ashish Kotnala</string>
 
         <string name="device_kenzo">Xiaomi Redmi Note 3</string>
-        <string name="device_kenzo_summary">Kenzo\nMaintainer - Abhishek Aggarwal</string>
+        <string name="device_kenzo_summary">Kenzo\nMaintainer - Warmachine28</string>
 	
 	<string name="device_sprout4">Android One - 4GB variants (1st Gen)</string>
 	<string name="device_sprout4_summary">Sprout4\nMaintainer - Sai Krishna</string>
 	
 	<string name="device_sprout8">Android One - 8GB variants (1st Gen)</string>
 	<string name="device_sprout8_summary">Sprout8\nMaintainer - Sai Krishna</string>
+
+	<string name="device_seed">Android One - GM 4G (2nd Gen)</string>
+	<string name="device_seed_summary">Seed\nMaintainer - Semih ÇELİK (Wes)</string>
+
+	<string name="device_shamrock">Android One - GM 5 Plus (3rd Gen)</string>
+	<string name="device_shamrock_summary">Shamrock\nMaintainer - Ali İhsan Hatun (Asderdd)</string>
 
 	<string name="device_alpha">Samsung Galaxy Alpha</string>
 	<string name="device_alpha_summary">G850F\nMaintainer - Jan-Luca Neumann (sunsettrack4)</string>
@@ -400,6 +413,9 @@
 	<string name="device_redmi2">Xiaomi Redmi 2</string>
 	<string name="device_redmi2_summary">wt88047\nMaintainer - nicknitewolf</string>
 
+    <string name="device_redmi3">Xiaomi Redmi 3</string>
+	<string name="device_redmi3_summary">ido\nMaintainer - WinKarbik</string>
+
 	<string name="device_wfxs">WilleyFox Swift</string>
 	<string name="device_wfxs_summary">crackling\nMaintainer - </string>
 
@@ -417,5 +433,20 @@
 	
         <string name="device_grouper">Asus Nexus 7 2012 - WiFi Only</string>
         <string name="device_grouper_summary">grouper\nMaintainer - srisurya95</string>
+	
+	<string name="device_z00t">Asus Zenfone 2 Laser/Selfie</string>
+        <string name="device_z00t_summary">Z00T\nMaintainer - Fabb2303</string>
+	
+	<string name="device_z00l">Asus Zenfone 2 Laser</string>
+        <string name="device_z00l_summary">Z00L\nMaintainer - Fabb2303</string>
+
+        <string name="device_n5100">Note 8.0 3g</string>
+	<string name="device_n5100_summary">n5100 \nMaintainer - Buff99</string>
+
+        <string name="device_n5110">Note 8.0 wifi</string>
+	<string name="device_n5110_summary">n5110 \nMaintainer - Buff99</string>
+
+        <string name="device_n5120">Note 8.0 4g</string>
+	<string name="device_n5120_summary">n5120 \nMaintainer - Buff99</string>
 
 </resources>
